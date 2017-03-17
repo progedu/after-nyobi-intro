@@ -6,7 +6,8 @@
 | デスクトップアプリ開発 | [Electron](https://electron.atom.io/) |
 | フィジカルコンピューティング | [Raspberry Pi](https://www.raspberrypi.org/) |
 | 便利ツール開発 | [Chrome拡張開発](https://developer.chrome.com/extensions/getstarted) | 
-| 業務改善ツール開発 | [Google Apps Scrip](https://developers.google.com/apps-script/) | 
+| 業務改善ツール開発 | [Google Apps Script](https://developers.google.com/apps-script/) | 
+| ブラウザ操作自動化 | [cheerio-httpcli](https://www.npmjs.com/package/cheerio-httpcli) | 
 | 3D CG | [three.js](https://threejs.org/) |
 | 2D アニメーション | [PIXI.js](http://www.pixijs.com/) |
 | 2D ゲーム開発 | [enchant.js](http://enchantjs.com/ja/) |
