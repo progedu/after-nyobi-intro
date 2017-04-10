@@ -1,4 +1,24 @@
-# JavaScript / Node.js を使ってできるWebプログラミング以外のプログラミング (2016年度)
+# N予備校 プログラミング入門コースで作るもの
+
+- Webプログラミング入門
+  - [YouTubeやGoogle Mapを埋め込んだ自己紹介ページ](https://progedu.github.io/intro-sample/self-introduction.html)
+  - [生まれてからの秒数をアニメーション表示するページ](https://progedu.github.io/intro-sample/js-function.html)
+  - [時間あてゲーム](https://progedu.github.io/intro-sample/js-object.html)
+  - [CSSを使ったアニメーション](https://progedu.github.io/intro-sample/css-programming.html)
+  - [あなたのいいところ診断](https://progedu.github.io/intro-sample/assessment.html)
+- Linux開発環境構築
+  - シェルプログラミングで作るクイズゲーム
+  - TCPを利用したチャットサーバー
+  - ニコニコ動画のランキングを自動収集するプログラム
+- Webアプリ 基礎
+  - 都道府県の各年度の人口を集計するプログラム
+  - Slackのチャットボット
+  - アンケートサービス
+  - [秘密の匿名掲示板](https://gentle-ridge-47938.herokuapp.com/posts)
+- Webアプリ 応用
+  - [Express.jsで作るGitHub認証を行うスケジュール調整サービス](https://quiet-inlet-37697.herokuapp.com/)
+
+# その他の JavaScript / Node.js を使ってできるプログラミング
 
 | 領域 | 利用するフレームワーク/ライブラリ |
 |:---- |:---- |
@@ -15,10 +35,11 @@
 他にも沢山ありますが、とは言え特定の分野に取り組もうとすると高度なプログラミング言語が必要になることもあります。
 
 - 大規模WebならScalaやGo
-- ネイティブスマホアプリならJavaやSwift
+- AndroidのネイティヴスマホアプリならJava
+- iOSのネイティヴスマホアプリならSwift
 - 統計ならR
 - ビッグデータならJavaかScala
 - 人工知能ならPython
 - 3DゲームならUnity C#
 
-ただし入門コースを終えた方なら自分で自学自習していけると思うので、ぜひチャレンジしてみて下さい。
+ただし、これらは入門コースを終えた方なら自分で自学自習していけると思うので、ぜひチャレンジしてみて下さい。
