@@ -6,8 +6,8 @@
   - [時間あてゲーム](https://progedu.github.io/intro-sample/js-object.html)
   - [CSSを使ったアニメーション](https://progedu.github.io/intro-sample/css-programming.html)
   - [あなたのいいところ診断](https://progedu.github.io/intro-sample/assessment.html)
-- Linux開発環境構築
-  - シェルプログラミングで作るクイズゲーム
+- Linux開発環境構築(Linux, Git, GitHubが使えるようになる)
+  - シェルプログラミングで作るクイズゲーム
   - TCPを利用したチャットサーバー
   - ニコニコ動画のランキングを自動収集するプログラム
 - Webアプリ 基礎
