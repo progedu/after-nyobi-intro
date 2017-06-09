@@ -1,21 +1,21 @@
 # N予備校 プログラミング入門コースで作るもの
 
-- Webプログラミング入門
+- 第1章 はじめよう (Webプログラミング入門)
   - [YouTubeやGoogle Mapを埋め込んだ自己紹介ページ](https://progedu.github.io/intro-sample/self-introduction.html)
   - [生まれてからの秒数をアニメーション表示するページ](https://progedu.github.io/intro-sample/js-function.html)
   - [時間あてゲーム](https://progedu.github.io/intro-sample/js-object.html)
   - [CSSを使ったアニメーション](https://progedu.github.io/intro-sample/css-programming.html)
   - [あなたのいいところ診断](https://progedu.github.io/intro-sample/assessment.html)
-- Linux開発環境構築(Linux, Git, GitHubが使えるようになる) 
+- 第2章 準備しよう (Linux開発環境構築)
   - シェルプログラミングで作るクイズゲーム
   - TCPを利用したチャットサーバー
   - ニコニコ動画のランキングを自動収集するプログラム
-- Webアプリ 基礎
+- 第3章 サーバーサイドプログラミング入門 (Webアプリ基礎)
   - 都道府県の各年度の人口を集計するプログラム
   - Slackのチャットボット
   - アンケートサービス
   - [秘密の匿名掲示板](https://gentle-ridge-47938.herokuapp.com/posts)
-- Webアプリ 応用
+- 第4章 実践サーバーサイドプログラミング (Webアプリ応用)
   - [Express.jsで作るGitHub認証を行うスケジュール調整サービス](https://quiet-inlet-37697.herokuapp.com/)
 
 # その他の JavaScript / Node.js を使ってできるプログラミング
