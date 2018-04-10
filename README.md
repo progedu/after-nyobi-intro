@@ -24,7 +24,7 @@ N予備校 プログラミングの入門コースで Web プログラミング�
 
 | 領域 | 利用するフレームワーク/ライブラリ |
 |:---- |:---- |
-| スマホアプリ開発 | [Cordova](https://cordova.apache.org/) |
+| スマホアプリ開発 | [ReactNative](https://facebook.github.io/react-native/) |
 | デスクトップアプリ開発 | [Electron](https://electron.atom.io/) |
 | フィジカルコンピューティング | [Raspberry Pi](https://www.raspberrypi.org/) |
 | 便利ツール開発 | [Chrome拡張開発](https://developer.chrome.com/extensions/getstarted) | 
